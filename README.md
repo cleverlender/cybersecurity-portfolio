@@ -41,8 +41,8 @@ Participating in this Capture the Flag (CTF) challenge helped me understand how 
 
 ### NCL 2026
 
-- [NCL Fall 2026 Individual Game Scouting Report](YOUR_LINK)
-- [NCL Fall 2026 Team Game Scouting Report](YOUR_LINK)
+- [NCL Fall 2026 Individual Game Scouting Report](./NCL%202026%20Fall%20Individual%20Report.pdf)
+- [NCL Fall 2026 Team Game Scouting Report](./NCL%202026%20Fall%20Team%20Game%20Report.pdf)
 
 ### NCL 2025
 
