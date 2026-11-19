@@ -46,8 +46,8 @@ Participating in this Capture the Flag (CTF) challenge helped me understand how 
 
 ### NCL 2025
 
-- [NCL Fall 2025 Individual Game Scouting Report](./NCL%20Fall%202025%20Individual%20Game%20Scouting%20Report.pdf)
-- [NCL Fall 2025 Team Game Scouting Report](./NCL%20Fall%202025%20Team%20Game%20Scouting%20Report.pdf)
+- [NCL Fall 2025 Individual Game Scouting Report](./Bryant%20Mateus%20-%20NCL%20Fall%202025%20Individual%20Game%20Scouting%20Report.pdf)
+- [NCL Fall 2025 Team Game Scouting Report](./Bryant%20Mateus%20-%20NCL%20Fall%202025%20Team%20Game%20Scouting%20Report.pdf)
 
 
 This portfolio will continue to grow as I complete more challenges and develop my cybersecurity skills.
